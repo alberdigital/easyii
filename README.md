@@ -1,5 +1,7 @@
 ## EasyiiCMS ##
 
+Modificado por asantos para hacer una prueba.
+
 Control panel and tools based on php framework Yii2. Easy cms for easy websites.
 
 This repository is development package (yii2 extension).
