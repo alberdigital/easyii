@@ -1,6 +1,6 @@
 {
-    "name": "alberdigital/easyii",
-    "version": "dev-templatevars",
+	"name": "noumo/easyii",
+    "version": "dev-master",
     "description": "Easy CMS based on Yii2 Framework - Development package",
     "keywords": ["easyii"],
     "homepage": "http://easyiicms.com",

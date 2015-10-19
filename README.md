@@ -1,6 +1,6 @@
 ## EasyiiCMS ##
 
-Modificado por asantos para hacer una prueba.
+Modified by asantos.
 
 Control panel and tools based on php framework Yii2. Easy cms for easy websites.
 
